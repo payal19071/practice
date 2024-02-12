@@ -1,3 +1,3 @@
 # practice
 <br>
-this is first git repo
+this is my first git repo
